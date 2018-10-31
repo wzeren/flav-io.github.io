@@ -11,6 +11,7 @@ This is a curated list of publications and preprints making use of the flavio pa
 {: class="table"}
 Authors | Title | arXiv | Code
 --------|-------|-------|------------
+F. Domingo, H. K. Dreiner, J. S. Kim, M. E. Krauss, V. Martin Lozano, Z. S. Wang | Updating Bounds on R-Parity Violating Supersymmetry from Meson Oscillation Data | [1810.08228](https://arxiv.org/abs/1810.08228)
 J. Kumar, D. London, R. Watanabe | Combined Explanations of the $b \to s \mu^+ \mu^-$ and $b \to c \tau \bar \nu$ Anomalies: a General Model Analysis | [1806.07403](https://arxiv.org/abs/1806.07403)
 M. Jung, D. M. Straub | Constraining new physics in $b\to c\ell\nu$ transitions | [1801.01112](https://arxiv.org/abs/1801.01112)
 F. Sannino, P. Stangl, D. M. Straub, A. E. Thomsen | Flavor Physics and Flavor Anomalies in Minimal Fundamental Partial Compositeness | [1712.07646](https://arxiv.org/abs/1712.07646)
